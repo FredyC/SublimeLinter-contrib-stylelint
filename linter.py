@@ -9,8 +9,6 @@
 #
 """This module exports the Stylelint plugin class."""
 
-import os
-
 from SublimeLinter.lint import NodeLinter, util
 
 
