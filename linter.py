@@ -13,6 +13,7 @@ import os
 
 from SublimeLinter.lint import NodeLinter, util
 
+
 class Stylelint(NodeLinter):
     """Provides an interface to stylelint."""
 
